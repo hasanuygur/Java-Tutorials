@@ -55,3 +55,5 @@ Soru 10
 Soru 11
 -------
 Klavyeden girilen sayının 2'nin kuvveti olup olmadığını bulan Java programını yazınız.
+<br/><br/>
+`Hata,görüş ve yardım için iletişim: tamer.erdogaan@gmail.com`
